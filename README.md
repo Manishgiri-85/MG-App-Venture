@@ -1,2 +1,3 @@
-# MG-App-Venture
-MG Music App
+# MG App Venture
+MG Music Venture App
+Author Manish Giri
